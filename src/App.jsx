@@ -3,6 +3,7 @@ import './App.css';
 import Header from './Header';
 import Employees from './Employees';
 import Footer from './Footer';
+import GroupedTeamMembers from './GroupedTeamMembers'
 import { useState, useEffect } from "react";
 import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 
